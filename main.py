@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-pyautogui.alert('Código irá iniciar')
+pyautogui.alert('Launch code')
 pyautogui.moveTo(273, 876)
 pyautogui.click()
 time.sleep(0.5)
